@@ -104,12 +104,16 @@ body {
 .local p {
   text-align: center;
 }
+.card-footer {
+  margin-top: 26px;
+  padding-top: 23px;
+  border-top: 1px solid #d9d9d9;
+}
 .counts {
   display: flex;
   justify-content: space-between;
   padding-left: 47px;
   padding-right: 47px;
-  margin-top: 56px;
 }
 #info {
   text-align: center;
